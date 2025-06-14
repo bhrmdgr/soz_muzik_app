@@ -1,16 +1,28 @@
-# soz_muzik
+# 🎵 Soz Muzik
 
-A new Flutter project.
+A mobile application built with Flutter that helps you **find songs based on lyrics**. Integrated with the Genius API.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🎤 Takes song lyrics input from the user
+- 🔍 Searches Genius API for matching songs
+- 🎧 Displays song details (title, artist, lyrics, images)
+- 🖤 Simple and user-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Genius API
+- Android Studio
+
+## 📸 Screenshots
+[sozmüzik](https://github.com/user-attachments/assets/07d41335-b0b8-4969-91f8-d3dacdd9f6c7)
+
+## 📌 Notes
+
+This project was developed for personal learning and hobby purposes.  
+You need to obtain an API key from [Genius Developers](https://genius.com/developers) to use the API.
+
+
