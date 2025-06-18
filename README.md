@@ -13,16 +13,14 @@ A mobile application built with Flutter that helps you **find songs based on lyr
 
 - Flutter
 - Dart
-
 - Genius API
 - Android Studio
 
 ## 📸 Screenshots
+
 ![sozmuzik](https://github.com/user-attachments/assets/97803f4a-a8ea-480f-bdb1-cf1ce973977d)
 
 ## 📌 Notes
 
 This project was developed for personal learning and hobby purposes.  
 You need to obtain an API key from [Genius Developers](https://genius.com/developers) to use the API.
-
-
