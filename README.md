@@ -5,7 +5,7 @@ A mobile application built with Flutter that helps you **find songs based on lyr
 ## 🚀 Features
 
 - 🎤 Takes song lyrics input from the user
-- 🔍 Searches Genius API for matching songs
+- 🔍 Searches Genius API for matching songs.
 - 🎧 Displays song details (title, artist, lyrics, images)
 - 🖤 Simple and user-friendly interface
 
